@@ -1,0 +1,9 @@
+The following are links that can help in dealing with the logic error of viewing files 
+
+https://www.postgresql.org/docs/8.4/functions-string.html
+
+https://stackoverflow.com/questions/41370423/how-to-store-and-retrieve-php-serialize-in-postgresql
+
+https://www.postgresql.org/docs/9.4/functions-binarystring.html
+
+https://dba.stackexchange.com/questions/53309/using-postgresql-8-4-how-to-convert-bytea-to-text-value-in-postgres
